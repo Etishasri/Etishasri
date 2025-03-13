@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/Bhargav-Barewar/draft/refs/heads/main/Black%20and%20Beige%20Modern%20Handwriting%20Professional%20Business%20LinkedIn%20Banner.gif)
+![MasterHead](https://raw.githubusercontent.com/Etishasri/Etishasri/refs/heads/main/Assests/Black%20and%20Beige%20Modern%20Handwriting%20Professional%20Business%20LinkedIn%20Banner.gif)
 <br>
 <div align="center">
 <img src="https://raw.githubusercontent.com/Bhargav-Barewar/draft/refs/heads/main/right-image.jpg" width="25%" align="right" />
