@@ -1,7 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/Etishasri/Etishasri/refs/heads/main/Assests/Black%20and%20Beige%20Modern%20Handwriting%20Professional%20Business%20LinkedIn%20Banner.gif)
 <br>
 <div align="center">
-<img src="https://raw.githubusercontent.com/Bhargav-Barewar/draft/refs/heads/main/right-image.jpg" width="25%" align="right" />
+<img src="https://raw.githubusercontent.com/Etishasri/Etishasri/refs/heads/main/Assests/right-image.jpg" width="25%" align="right" />
 <img src="https://readme-typing-svg.demolab.com?font=Courgette&size=30&pause=1000&center=true&width=435&height=55&lines=Hello+hello...!" />
 <img src="https://readme-typing-svg.demolab.com?font=Courgette&size=26&pause=1000&width=465&height=55&lines=%E2%98%86+I'm+Etisha%2C+Turning+data+into+magic+%E2%98%86" alt="Typing SVG" />
 <br>
