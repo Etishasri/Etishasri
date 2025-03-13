@@ -7,7 +7,9 @@
 <br>
 <div align="left">
 
-- 🔭 I’m currently working in **Rubixe - AI Solution Company**
+- 🔭 I’m currently working in **Abhyaz - MTAB Technology Center**
+  
+- 🏢 Priviously worked in **Rubixe - AI Solution Company**
 
 - 🌱 I’m currently learning **Advance SQL & Python**
 
