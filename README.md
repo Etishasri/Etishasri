@@ -7,7 +7,7 @@
 <br>
 <div align="left">
 
-- 🔭 I’m currently working in **Quess Corp (Client: British Petroleum**
+- 🔭 I’m currently working in **Quess Corp (Client: British Petroleum)**
 
 - 🏢 Priviously worked in **Abhyaz - MTAB Technology Center**
   
