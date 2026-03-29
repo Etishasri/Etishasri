@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working in **Quess Corp (Client: British Petroleum)**
 
-- 🏢 Priviously worked in **Abhyaz - MTAB Technology Center**
+- 🏢 Previously worked in **Abhyaz - MTAB Technology Center**
   
 - 🏢 Previously worked in **Rubixe - AI Solution Company**
 
