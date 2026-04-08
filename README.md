@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **Etishasri34@gmail.com**
 
-- 📄 Know about my experiences [[Resume_link]](https://drive.google.com/file/d/1ljor_g3BQNVskeUXmpXYFg3PUFXGCZcY/view?usp=drive_link)
+- 📄 Know about my experiences [[Resume_link]](https://drive.google.com/file/d/1ljor_g3BQNVskeUXmpXYFg3PUFXGCZcY/view?usp=sharing)
 <div/>
 <br>
 <h3 align="left">Connect with me:</h3>
